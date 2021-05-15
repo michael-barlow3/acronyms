@@ -1924,9 +1924,9 @@ FOC,Full Operating Capability,,
 FOD,Field Operations and Development,,
 FOEs,Fiscal Notice of Expectations,,
 FO,Field Operations,,
-FOO,For Obfuscating Obvious Information,This is a sample context, This is a sample note
-FOO,For Obfuscating Obvious Information 2,This is a sample context, This is a sample note
-FOO,For Obfuscating Obvious Information 3,This is a sample context, This is a sample note
+FOOI,For Obfuscating Obvious Information Def 1,This is a sample context, This is a sample note
+FOOI,For Obfuscating Obvious Information Def 2,This is a sample context, This is a sample note
+FOOI,For Obfuscating Obvious Information Def 3,This is a sample context, This is a sample note
 FOH,Federal Occupational Health,,
 FOIA,Freedom of Information Act,,
 FOI,Field Office of Investigation,,
